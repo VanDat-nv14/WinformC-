@@ -1,0 +1,11 @@
+D:\winformC#\Btapb3\Btapb3\bin\Debug\Btapb3.exe.config
+D:\winformC#\Btapb3\Btapb3\bin\Debug\Btapb3.exe
+D:\winformC#\Btapb3\Btapb3\bin\Debug\Btapb3.pdb
+D:\winformC#\Btapb3\Btapb3\obj\Debug\Btapb3.csproj.AssemblyReference.cache
+D:\winformC#\Btapb3\Btapb3\obj\Debug\Btapb3.Form1.resources
+D:\winformC#\Btapb3\Btapb3\obj\Debug\Btapb3.Form2.resources
+D:\winformC#\Btapb3\Btapb3\obj\Debug\Btapb3.Properties.Resources.resources
+D:\winformC#\Btapb3\Btapb3\obj\Debug\Btapb3.csproj.GenerateResource.cache
+D:\winformC#\Btapb3\Btapb3\obj\Debug\Btapb3.csproj.CoreCompileInputs.cache
+D:\winformC#\Btapb3\Btapb3\obj\Debug\Btapb3.exe
+D:\winformC#\Btapb3\Btapb3\obj\Debug\Btapb3.pdb
