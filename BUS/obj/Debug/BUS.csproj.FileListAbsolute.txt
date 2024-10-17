@@ -1,0 +1,15 @@
+D:\winformC#\GUI\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\winformC#\GUI\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\winformC#\GUI\BUS\bin\Debug\BUS.dll.config
+D:\winformC#\GUI\BUS\bin\Debug\BUS.dll
+D:\winformC#\GUI\BUS\bin\Debug\BUS.pdb
+D:\winformC#\GUI\BUS\bin\Debug\DAL.dll
+D:\winformC#\GUI\BUS\bin\Debug\EntityFramework.dll
+D:\winformC#\GUI\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\winformC#\GUI\BUS\bin\Debug\DAL.pdb
+D:\winformC#\GUI\BUS\bin\Debug\DAL.dll.config
+D:\winformC#\GUI\BUS\bin\Debug\EntityFramework.xml
+D:\winformC#\GUI\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\winformC#\GUI\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\winformC#\GUI\BUS\obj\Debug\BUS.dll
+D:\winformC#\GUI\BUS\obj\Debug\BUS.pdb
